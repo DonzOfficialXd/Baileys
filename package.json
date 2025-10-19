@@ -1,17 +1,17 @@
 {
   "name": "@donzytzyxy/baileys",
-  "version": "2.0.2",
+  "version": "2.0.6",
   "description": "donzytzyxy/baileys",
   "keywords": [
     "baileys",
-    "donzxd",
+    "donzytzyxy",
     "whatsapp",
     "whatsapp-api",
     "whatsapp-web",
     "whatsapp-bot",
     "automation",
     "multi-device",
-    "donzxd"
+    "donzytzyxy"
   ],
   "homepage": "https://www.npmjs.com/package/@donzytzyxy/baileys",
   "repository": {
